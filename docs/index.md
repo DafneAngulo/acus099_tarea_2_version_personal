@@ -8,10 +8,25 @@
 #### Jueves 30 de abril
 
 # Introducción 
-ola
+
+Esta página web fue diseñada para mostrar el procedimiento y registrar la respuesta de impulso para 3 recintos dentro de la Uach. Se utilizaron dos grabaciones hechas en la cámara anecoica: Un trabalenguas dicho por Tomás Araya y un trompe interpretrado por Antonia Jimenez. Se utilizaron dos grabaciones: un trabalenguas dicho por Tómas Araya y un trompe interpretado por Antonia Jimenez. Siendo estas referencias para evidenciar como cada recinto modifica los registros originales mediante el proceso de convolución.
+
 # Objetivos
 
 # Marco teorico
+
+La convolución es el proceso mediante el cual una señal de entrada se ve modificada al interactuar con otra señal, generando como resultado una nueva señal que incorpora las características de ambas. En este caso, la señal de entrada corresponde a las grabaciones realizadas en la cámara anecoica, las cuales se combinan con las respuestas de las demás salas. 
+
+En este contexto, la convolución se expresa mediante la siguiente relación:
+
+                                               y(t)=x(t)∗h(t)
+
+donde:
+
+x(t) corresponde a la señal de entrada, que en este caso son las grabaciones realizadas en la cámara reverberante.
+h(t) representa la respuesta al impulso de las demas salas.
+y(t) es la señal resultante, que contiene el sonido original modificado por el comportamiento acústico de cada recinto.
+
 
 
 # Procedimiento
