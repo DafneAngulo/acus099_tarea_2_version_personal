@@ -23,9 +23,9 @@ En este contexto, la convolución se expresa mediante la siguiente relación:
 
 donde:
 
-x(t) corresponde a la señal de entrada, que en este caso son las grabaciones realizadas en la cámara reverberante.
-h(t) representa la respuesta al impulso de las demas salas.
-y(t) es la señal resultante, que contiene el sonido original modificado por el comportamiento acústico de cada recinto.
+x(t): Corresponde a la señal de entrada, que en este caso son las grabaciones realizadas en la cámara reverberante.  
+h(t): Representa la respuesta al impulso de las demas salas.            
+y(t): Es la señal resultante, que contiene el sonido original modificado por el comportamiento acústico de cada recinto.
 
 
 
