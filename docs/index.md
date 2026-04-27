@@ -38,6 +38,14 @@ Los recintos que utilizamos fueron: la cámara anecoica, la cámara reverberante
 En la cámara anecoica realizamos dos grabaciones: la primera de un trabalenguas, interpretado por Tomás Araya, y la segunda de un trompe, tocado por Antonia Jiménez. Luego, para las demás salas, realizamos seis grabaciones, con tres posiciones de micrófono y dos posiciones de fuente, con tres claqueteos por posición, dando así 18 mediciones por recinto.
 
 # Desarrollo
+from pathlib import Path
+import numpy as np
+import matplotlib.pyplot as plt
+import soundfile as sf
+import librosa
+from scipy.signal import fftconvolve
+from IPython.display import Audio, display
+
 ## Recinto 0: Camara Anecoica 
 ## Recinto 1: Camara reverberante
 ## Recinto 2: Hall 9k
