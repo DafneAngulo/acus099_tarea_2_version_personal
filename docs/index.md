@@ -13,6 +13,7 @@ ola
 
 # Marco teorico
 
+
 # Procedimiento
 
 Para realizar las mediciones de respuestas de impulso, se utilizaron los siguientes equipos: micrófono Behringer 8000, cable XLR, atril para micrófono, claqueta, trompe y la interfaz ESI U22 XT; además, para las grabaciones se utilizó el software Reaper.
