@@ -1,5 +1,22 @@
 # Tarea 2 — Respuesta al impulso
+#### Integrantes: Dafne Angulo - Tomas Araya - Antonia Jimenez
 
-Página web del grupo.
+#### Profesores: Victor Poblete - Felipe Figueroa
 
-b
+#### Acus 099: Procesamiento digital de señales.
+
+#### Jueves 30 de abril
+
+# Introducción 
+
+# Objetivos
+
+# Marco teorico
+
+# Procedimiento
+
+# Desarrollo
+
+# Conclusiones 
+
+# Bibliografia 
