@@ -19,7 +19,11 @@ Analizar la persepción de las señales acústicas en los distintos espacios med
 
 ## Objetivos especificos
 
+Generar señales de referencia. 
 
+Realizar mediciones mediante respuesta de impulso.
+
+Aplicar convolución a las referencias con las características de cada espacio.
 
 # Marco teorico
 
