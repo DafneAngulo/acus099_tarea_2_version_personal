@@ -21,7 +21,7 @@ Analizar la persepción de las señales acústicas en los distintos espacios med
 
 Generar señales de referencia. 
 
-Realizar mediciones mediante respuesta de impulso.
+Realizar mediciones mediante respuesta al impulso según ISO 3382.
 
 Aplicar convolución a las referencias con las características de cada espacio.
 
