@@ -1,4 +1,4 @@
-# Tarea 2 — Respuesta al impulso
+# Tarea 2 — Respuesta al impulso 
 #### Integrantes: Dafne Angulo - Tomas Araya - Antonia Jimenez
 
 #### Profesores: Victor Poblete - Felipe Figueroa
@@ -57,3 +57,4 @@ En la cámara anecoica realizamos dos grabaciones: la primera de un trabalenguas
 # Conclusiones 
 
 # Bibliografia 
+aaaaaaaaaaasaaaas
