@@ -8,7 +8,7 @@
 #### Jueves 30 de abril
 
 # Introducción 
-
+a
 Esta página web fue diseñada para mostrar el procedimiento y registrar la respuesta de impulso para 3 recintos dentro de la Uach. Se utilizaron dos grabaciones hechas en la cámara anecoica: Un trabalenguas dicho por Tomás Araya y un trompe interpretrado por Antonia Jimenez. Siendo estas referencias para evidenciar como cada recinto modifica los registros originales mediante el proceso de convolución.
 
 # Objetivos
