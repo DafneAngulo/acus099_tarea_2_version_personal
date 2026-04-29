@@ -13,6 +13,14 @@ Esta página web fue diseñada para mostrar el procedimiento y registrar la resp
 
 # Objetivos
 
+## Objetivo general
+
+Analizar la persepción de las señales acústicas en los distintos espacios medidos.
+
+## Objetivos especificos
+
+
+
 # Marco teorico
 
 La convolución es el proceso mediante el cual una señal de entrada se ve modificada al interactuar con otra señal, generando como resultado una nueva señal que incorpora las características de ambas. En este caso, la señal de entrada corresponde a las grabaciones realizadas en la cámara anecoica, las cuales se combinan con las respuestas de las demás salas. 
