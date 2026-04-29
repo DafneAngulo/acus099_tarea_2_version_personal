@@ -1,1 +1,1 @@
-Imágenes in-situ
+Imágenes in-situ y gráficos
